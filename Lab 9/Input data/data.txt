@@ -1,0 +1,5 @@
+1001	Kratharth	Manager	35000	3001
+1002	Kedar	Assistant	40000	3002
+1003	Krishna	Assistant_To_Regional_Manager	25000	3002
+1004	Abhilash	Other_Manager	50000	3003
+1005	Rahul	Other_Assistant	15000	3003
